@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'LooksGreek';
+    src: url(Fonts/DIOGENES.ttf);
+}
+body{
+    background: #e6023b;
+}
+a{
+    position: absolute;
+    top: 1225px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+p
+{
+    font-family: 'looksGreek';
+    text-align: center;
+}

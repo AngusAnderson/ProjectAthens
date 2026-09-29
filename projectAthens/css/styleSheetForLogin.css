@@ -1,0 +1,24 @@
+body
+{
+    background: #E6023b;
+}
+.Login-box
+{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+    /* background: #E6E6E6; */
+    
+}
+.login-left
+{
+    /* background: #E6E6E6; */
+    
+    padding: 30px;
+}
+.login-right
+{
+    /* background: #E6E6E6; */
+    
+    padding: 30px;
+}
